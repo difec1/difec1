@@ -12,6 +12,9 @@ Aktuell arbeite ich an SmartBudgetAI, einem Zero Trust Proof of Concept und mehr
 ## Meist genutzte Sprachen
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=difec1&layout=compact&theme=radical)
 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=difec1&theme=dracula)
+
 ---
 
 ## Technologien und Tools
