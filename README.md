@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, ich bin Carmelo
 
-<!--
-**difec1/difec1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich studiere Business IT mit Schwerpunkt Artificial Intelligence an der BFH und arbeite an verschiedenen Projekten rund um Softwarearchitektur, AI und modernen Webtechnologien. Ich baue Lösungen, die sauber strukturiert, technisch sinnvoll und praktisch einsetzbar sind. Mein Fokus liegt auf präzisen Architekturen, klaren Konzepten und nachvollziehbarem Code.
 
-Here are some ideas to get you started:
+Aktuell arbeite ich an SmartBudgetAI, einem Zero Trust Proof of Concept und mehreren SDA Workshops. Neben dem Studium interessiere ich mich besonders für AI Engineering, Prozessautomatisierung und aktuelle Software Patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=dife1&show_icons=true&theme=radical)
+
+## Meist genutzte Sprachen
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dife1&layout=compact&theme=radical)
+
+---
+
+## Technologien und Tools
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,git,docker,linux,vscode" />
+
+---
+
+## Aktuelle Projekte
+
+### SmartBudgetAI
+Ein AI gestützter Finanz und Budgetassistent. Fokus auf klarer Promptarchitektur, OpenAI API und systematischer Evaluierung der Modellantworten.
+
+### Zero Trust Architekturprojekt
+Ein Proof of Concept mit Identity Provider, Resource API und lokalen Services. Ziel ist eine konsistente, sichere und gut nachvollziehbare Architektur.
+
+### SDA Workshops
+Praktische Umsetzungen zu Softwarearchitektur, darunter Microservices, Modularer Monolith, Messaging Patterns und strukturierte Codebases.
+
+---
+
+## Weitere Interessen
+Ich kombiniere technische Neugier mit praxisorientierter Anwendung. Dazu gehören Themen wie AI Reasoning, Cloud Plattformen, DevOps Praktiken und Data Engineering. In meiner Freizeit bin ich mit meinem Motorrad unterwegs und interessiere mich für Fotografie und Musik.
