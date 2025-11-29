@@ -7,10 +7,10 @@ Aktuell arbeite ich an SmartBudgetAI, einem Zero Trust Proof of Concept und mehr
 ---
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=dife1&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=difec1&show_icons=true&theme=radical)
 
 ## Meist genutzte Sprachen
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dife1&layout=compact&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=difec1&layout=compact&theme=radical)
 
 ---
 
