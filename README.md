@@ -6,13 +6,12 @@ Aktuell arbeite ich an SmartBudgetAI, einem Zero Trust Proof of Concept und mehr
 
 ---
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=difec1&show_icons=true&theme=radical)
-
-## Meist genutzte Sprachen
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=difec1&layout=compact&theme=radical)
-
-
+## GitHub Stats / Summary / Trophyes
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=difec1&theme=github_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=difec1&theme=github_dark&utcOffset=8)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=difec1&theme=github_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=difec1&theme=github_dark)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=difec1&theme=github_dark)
 ![trophy](https://github-profile-trophy.vercel.app/?username=difec1&theme=dracula)
 
 ---
@@ -26,12 +25,6 @@ Aktuell arbeite ich an SmartBudgetAI, einem Zero Trust Proof of Concept und mehr
 
 ### SmartBudgetAI
 Ein AI gestützter Finanz und Budgetassistent. Fokus auf klarer Promptarchitektur, OpenAI API und systematischer Evaluierung der Modellantworten.
-
-### Zero Trust Architekturprojekt
-Ein Proof of Concept mit Identity Provider, Resource API und lokalen Services. Ziel ist eine konsistente, sichere und gut nachvollziehbare Architektur.
-
-### SDA Workshops
-Praktische Umsetzungen zu Softwarearchitektur, darunter Microservices, Modularer Monolith, Messaging Patterns und strukturierte Codebases.
 
 ---
 
