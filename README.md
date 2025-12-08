@@ -1,6 +1,6 @@
 # Hi, ich bin Carmelo
 
-Ich studiere Business IT mit Schwerpunkt Artificial Intelligence an der BFH und arbeite an verschiedenen Projekten rund um Softwarearchitektur, AI und modernen Webtechnologien. Ich baue Lösungen, die sauber strukturiert, technisch sinnvoll und praktisch einsetzbar sind. Mein Fokus liegt auf präzisen Architekturen, klaren Konzepten und nachvollziehbarem Code.
+Ich studiere Wirtschaftsinformatik mit Schwerpunkt Artificial Intelligence an der BFH und arbeite an verschiedenen Projekten rund um Softwarearchitektur, AI und modernen Webtechnologien. Ich baue Lösungen, die sauber strukturiert, technisch sinnvoll und praktisch einsetzbar sind. Mein Fokus liegt auf präzisen Architekturen, klaren Konzepten und nachvollziehbarem Code.
 
 Aktuell arbeite ich an SmartBudgetAI, einem Zero Trust Proof of Concept und mehreren SDA Workshops. Neben dem Studium interessiere ich mich besonders für AI Engineering, Prozessautomatisierung und aktuelle Software Patterns.
 
